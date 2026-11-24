@@ -1,0 +1,5 @@
+[00:53:50] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[00:53:50] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[00:54:04] Se cargaron 10 imágenes para identificar.
+[00:54:04] Imagen 1: IMG_1482.JPG -> arandelas (distancia 2.31)
+[00:54:04] Imagen 2: IMG_1483.JPG -> tuercas (distancia 1.78)

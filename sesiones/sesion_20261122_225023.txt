@@ -1,0 +1,4 @@
+[22:50:23] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[22:50:23] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[22:55:38] Comando de voz reconocido: proporcion (100 % de los vecinos)
+[22:55:38] Comando 'proporcion' rechazado: Primero hay que sortear una caja.

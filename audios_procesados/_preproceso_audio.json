@@ -1,0 +1,10 @@
+{
+  "f_bajo": 300.0,
+  "f_alto": 5000.0,
+  "orden": 4,
+  "umbral_db": 25.0,
+  "silencios": "extremos",
+  "fs": 16000,
+  "ventana_ms": 25,
+  "salto_ms": 10
+}

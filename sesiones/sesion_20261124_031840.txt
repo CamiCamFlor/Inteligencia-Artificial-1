@@ -1,0 +1,15 @@
+[03:18:40] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[03:18:40] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[03:18:50] Se cargaron 10 imágenes para identificar.
+[03:18:50] Imagen 1: IMG_1493.JPG -> tuercas (distancia 0.60)
+[03:18:50] Imagen 2: IMG_1494.JPG -> tuercas (distancia 0.52)
+[03:18:50] Imagen 3: IMG_1495.JPG -> tornillos (distancia 1.04)
+[03:18:50] Imagen 4: IMG_1496.JPG -> tornillos (distancia 0.92)
+[03:18:51] Imagen 5: IMG_1497.JPG -> tornillos (distancia 0.75)
+[03:18:51] Imagen 6: IMG_1498.JPG -> tornillos (distancia 0.81)
+[03:18:51] Imagen 7: IMG_1499.JPG -> arandelas (distancia 0.83)
+[03:18:51] Imagen 8: IMG_1500.JPG -> arandelas (distancia 0.64)
+[03:18:51] Imagen 9: IMG_1501.jpg -> clavos (distancia 0.41)
+[03:18:51] Imagen 10: IMG_1502.JPG -> clavos (distancia 0.83)
+[03:18:51] Estimación bayesiana calculada.
+[03:19:01] Comando de voz reconocido: salir (100 % de los vecinos)

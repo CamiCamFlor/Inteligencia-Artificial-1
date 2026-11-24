@@ -1,0 +1,6 @@
+[00:29:27] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[00:29:27] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[00:29:53] Comando de voz reconocido: contar (67 % de los vecinos)
+[00:30:06] Comando de voz reconocido: contar (100 % de los vecinos)
+[00:30:15] Comando de voz reconocido: contar (67 % de los vecinos)
+[00:30:20] Comando de voz reconocido: salir (100 % de los vecinos)

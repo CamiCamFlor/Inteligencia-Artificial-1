@@ -1,0 +1,12 @@
+[01:08:07] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[01:08:07] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[01:08:13] Comando de voz reconocido: proporcion (100 % de los vecinos)
+[01:08:21] Comando de voz no reconocido: No estoy seguro de la palabra (mejor opcion: contar, 33 % de los vecinos).
+[01:08:31] Comando de voz reconocido: contar (100 % de los vecinos)
+[01:09:04] Comando de voz reconocido: contar (67 % de los vecinos)
+[01:09:09] Comando de voz reconocido: proporcion (100 % de los vecinos)
+[01:09:13] Comando de voz reconocido: contar (100 % de los vecinos)
+[01:09:28] Comando de voz reconocido: proporcion (100 % de los vecinos)
+[01:09:42] Comando de voz reconocido: contar (100 % de los vecinos)
+[01:09:49] Comando de voz reconocido: contar (100 % de los vecinos)
+[01:10:04] Comando de voz reconocido: salir (67 % de los vecinos)

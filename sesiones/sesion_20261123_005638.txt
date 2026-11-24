@@ -1,0 +1,15 @@
+[00:56:38] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[00:56:38] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[00:57:51] Se cargaron 10 imágenes para identificar.
+[00:57:51] Imagen 1: IMG_1464.JPG -> tornillos (distancia 0.84)
+[00:57:51] Imagen 2: IMG_1465.JPG -> tornillos (distancia 0.82)
+[00:57:52] Imagen 3: IMG_1466.JPG -> arandelas (distancia 1.63)
+[00:57:52] Imagen 4: IMG_1467.JPG -> tuercas (distancia 0.77)
+[00:57:52] Imagen 5: IMG_1468.JPG -> tuercas (distancia 0.69)
+[00:57:52] Imagen 6: IMG_1469.JPG -> clavos (distancia 0.35)
+[00:57:52] Imagen 7: IMG_1470.JPG -> tuercas (distancia 2.14)
+[00:57:52] Imagen 10: IMG_1492.JPG -> tuercas (distancia 1.70)
+[00:58:56] Comando de voz no reconocido: No se escucho ninguna palabra: solo hay ruido de fondo (la grabacion sobresale 8 dB y hacen falta 10).
+[00:59:01] Comando de voz reconocido: proporcion (100 % de los vecinos)
+[00:59:05] Comando de voz reconocido: contar (100 % de los vecinos)
+[00:59:09] Comando de voz reconocido: salir (100 % de los vecinos)

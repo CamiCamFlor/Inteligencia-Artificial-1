@@ -1,0 +1,93 @@
+[14:54:02] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[14:54:02] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[14:54:10] Se cargaron 10 imágenes para identificar.
+[14:54:10] Imagen 1: IMG_1493.JPG -> tuercas (distancia 0.27)
+[14:54:10] Imagen 2: IMG_1494.JPG -> tuercas (distancia 0.41)
+[14:54:10] Imagen 3: IMG_1495.JPG -> tornillos (distancia 1.03)
+[14:54:10] Imagen 4: IMG_1496.JPG -> tornillos (distancia 0.90)
+[14:54:10] Imagen 5: IMG_1497.JPG -> tornillos (distancia 0.72)
+[14:54:11] Imagen 6: IMG_1498.JPG -> tornillos (distancia 0.78)
+[14:54:11] Imagen 7: IMG_1499.JPG -> arandelas (distancia 0.59)
+[14:54:11] Imagen 8: IMG_1500.JPG -> arandelas (distancia 0.45)
+[14:54:11] Imagen 9: IMG_1501.jpg -> clavos (distancia 0.20)
+[14:54:11] Imagen 10: IMG_1502.JPG -> clavos (distancia 0.61)
+[14:54:11] Estimación bayesiana calculada.
+[14:54:57] Comando de voz no reconocido: No estoy seguro de la palabra (mejor opcion: contar, 33 % de los vecinos).
+[14:55:08] Comando de voz reconocido: proporcion (67 % de los vecinos)
+[14:55:08] Estimación bayesiana calculada.
+[14:55:08] Comando 'proporcion' ejecutado.
+Probabilidad de cada caja:
+  caja a  (250 / 250 / 250 / 250)   50.8 %
+  caja b  (150 / 300 / 300 / 250)   13.4 %
+  caja c  (250 / 350 / 250 / 150)   35.8 %
+  caja d  (500 / 500 / 0 / 0)    0.0 %
+Caja mas probable: a (50.8 %)
+Composicion estimada de la caja (promedio ponderado por probabilidad):
+  tornillos   236.6 piezas  (23.7 %)   | caja mas probable: 250
+  clavos      292.5 piezas  (29.2 %)   | caja mas probable: 250
+  arandelas   256.7 piezas  (25.7 %)   | caja mas probable: 250
+  tuercas     214.2 piezas  (21.4 %)   | caja mas probable: 250
+[14:55:08] Estimación bayesiana calculada.
+[14:55:53] Comando de voz reconocido: contar (100 % de los vecinos)
+[14:55:53] Comando 'contar' ejecutado.
+Piezas reconocidas en la muestra (10): tornillos 4, clavos 2, arandelas 2, tuercas 2
+[14:56:04] Comando de voz reconocido: contar (67 % de los vecinos)
+[14:56:04] Comando 'contar' ejecutado.
+Piezas reconocidas en la muestra (10): tornillos 4, clavos 2, arandelas 2, tuercas 2
+[14:56:13] Comando de voz reconocido: proporcion (100 % de los vecinos)
+[14:56:14] Estimación bayesiana calculada.
+[14:56:14] Comando 'proporcion' ejecutado.
+Probabilidad de cada caja:
+  caja a  (250 / 250 / 250 / 250)   50.8 %
+  caja b  (150 / 300 / 300 / 250)   13.4 %
+  caja c  (250 / 350 / 250 / 150)   35.8 %
+  caja d  (500 / 500 / 0 / 0)    0.0 %
+Caja mas probable: a (50.8 %)
+Composicion estimada de la caja (promedio ponderado por probabilidad):
+  tornillos   236.6 piezas  (23.7 %)   | caja mas probable: 250
+  clavos      292.5 piezas  (29.2 %)   | caja mas probable: 250
+  arandelas   256.7 piezas  (25.7 %)   | caja mas probable: 250
+  tuercas     214.2 piezas  (21.4 %)   | caja mas probable: 250
+[14:56:14] Estimación bayesiana calculada.
+[14:56:21] Comando de voz reconocido: contar (100 % de los vecinos)
+[14:56:21] Comando 'contar' ejecutado.
+Piezas reconocidas en la muestra (10): tornillos 4, clavos 2, arandelas 2, tuercas 2
+[14:56:31] Comando de voz reconocido: proporcion (100 % de los vecinos)
+[14:56:31] Estimación bayesiana calculada.
+[14:56:31] Comando 'proporcion' ejecutado.
+Probabilidad de cada caja:
+  caja a  (250 / 250 / 250 / 250)   50.8 %
+  caja b  (150 / 300 / 300 / 250)   13.4 %
+  caja c  (250 / 350 / 250 / 150)   35.8 %
+  caja d  (500 / 500 / 0 / 0)    0.0 %
+Caja mas probable: a (50.8 %)
+Composicion estimada de la caja (promedio ponderado por probabilidad):
+  tornillos   236.6 piezas  (23.7 %)   | caja mas probable: 250
+  clavos      292.5 piezas  (29.2 %)   | caja mas probable: 250
+  arandelas   256.7 piezas  (25.7 %)   | caja mas probable: 250
+  tuercas     214.2 piezas  (21.4 %)   | caja mas probable: 250
+[14:56:31] Estimación bayesiana calculada.
+[14:56:39] Comando de voz no reconocido: No se escucho ninguna palabra: solo hay ruido de fondo (la grabacion sobresale 4 dB y hacen falta 10).
+[14:56:47] Comando de voz reconocido: contar (67 % de los vecinos)
+[14:56:47] Comando 'contar' ejecutado.
+Piezas reconocidas en la muestra (10): tornillos 4, clavos 2, arandelas 2, tuercas 2
+[14:56:56] Comando de voz no reconocido: No estoy seguro de la palabra (mejor opcion: contar, 33 % de los vecinos).
+[14:57:01] Comando de voz reconocido: proporcion (100 % de los vecinos)
+[14:57:01] Estimación bayesiana calculada.
+[14:57:01] Comando 'proporcion' ejecutado.
+Probabilidad de cada caja:
+  caja a  (250 / 250 / 250 / 250)   50.8 %
+  caja b  (150 / 300 / 300 / 250)   13.4 %
+  caja c  (250 / 350 / 250 / 150)   35.8 %
+  caja d  (500 / 500 / 0 / 0)    0.0 %
+Caja mas probable: a (50.8 %)
+Composicion estimada de la caja (promedio ponderado por probabilidad):
+  tornillos   236.6 piezas  (23.7 %)   | caja mas probable: 250
+  clavos      292.5 piezas  (29.2 %)   | caja mas probable: 250
+  arandelas   256.7 piezas  (25.7 %)   | caja mas probable: 250
+  tuercas     214.2 piezas  (21.4 %)   | caja mas probable: 250
+[14:57:01] Estimación bayesiana calculada.
+[14:57:07] Comando de voz reconocido: contar (100 % de los vecinos)
+[14:57:07] Comando 'contar' ejecutado.
+Piezas reconocidas en la muestra (10): tornillos 4, clavos 2, arandelas 2, tuercas 2
+[14:57:11] Comando de voz reconocido: salir (100 % de los vecinos)

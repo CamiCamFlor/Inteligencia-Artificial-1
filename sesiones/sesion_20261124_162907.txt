@@ -1,0 +1,36 @@
+[16:29:07] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[16:29:07] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[16:47:12] Se cargaron 10 imágenes para identificar.
+[16:47:12] Imagen 1: IMG_1517.jpg -> clavos (distancia 0.84)
+[16:47:12] Imagen 2: IMG_1519.jpg -> clavos (distancia 0.41)
+[16:47:12] Imagen 3: IMG_1521.jpg -> arandelas (distancia 0.71)
+[16:47:12] Imagen 4: IMG_1523.jpg -> tuercas (distancia 0.79)
+[16:47:14] Imagen 5: IMG_1515.jpg -> clavos (distancia 0.35)
+[16:47:15] Imagen 6: IMG_1520.JPG -> arandelas (distancia 0.54)
+[16:47:15] Imagen 7: IMG_1526.jpg -> tornillos (distancia 0.58)
+[16:47:15] Imagen 8: IMG_1516.jpg -> clavos (distancia 0.60)
+[16:47:16] Imagen 9: IMG_1525.jpg -> tuercas (distancia 0.84)
+[16:47:17] Imagen 10: IMG_1522.JPG -> arandelas (distancia 0.78)
+[16:47:18] Estimación bayesiana calculada.
+[16:48:46] Comando de voz reconocido: proporcion (100 % de los vecinos)
+[16:48:46] Estimación bayesiana calculada.
+[16:48:46] Comando 'proporcion' ejecutado.
+Probabilidad de cada caja:
+  caja a  (250 / 250 / 250 / 250)   22.1 %
+  caja b  (150 / 300 / 300 / 250)   47.4 %
+  caja c  (250 / 350 / 250 / 150)   30.5 %
+  caja d  (500 / 500 / 0 / 0)    0.0 %
+Caja mas probable: b (47.4 %)
+Composicion estimada de la caja (promedio ponderado por probabilidad):
+  tornillos   202.6 piezas  (20.3 %)   | caja mas probable: 150
+  clavos      304.2 piezas  (30.4 %)   | caja mas probable: 300
+  arandelas   273.7 piezas  (27.4 %)   | caja mas probable: 300
+  tuercas     219.5 piezas  (21.9 %)   | caja mas probable: 250
+[16:48:46] Estimación bayesiana calculada.
+[16:49:25] Comando de voz reconocido: contar (100 % de los vecinos)
+[16:49:25] Comando 'contar' ejecutado.
+Piezas reconocidas en la muestra (10): tornillos 1, clavos 4, arandelas 3, tuercas 2
+[16:49:57] Comando de voz reconocido: contar (67 % de los vecinos)
+[16:49:57] Comando 'contar' ejecutado.
+Piezas reconocidas en la muestra (10): tornillos 1, clavos 4, arandelas 3, tuercas 2
+[16:50:06] Comando de voz reconocido: salir (100 % de los vecinos)

@@ -1,0 +1,14 @@
+[14:51:48] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[14:51:48] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[14:51:57] Se cargaron 10 imágenes para identificar.
+[14:51:58] Imagen 1: IMG_1493.JPG -> tuercas (distancia 0.27)
+[14:51:58] Imagen 2: IMG_1494.JPG -> tuercas (distancia 0.41)
+[14:51:58] Imagen 3: IMG_1495.JPG -> tornillos (distancia 1.03)
+[14:51:58] Imagen 4: IMG_1496.JPG -> tornillos (distancia 0.90)
+[14:51:58] Imagen 5: IMG_1497.JPG -> tornillos (distancia 0.72)
+[14:51:58] Imagen 6: IMG_1498.JPG -> clavos (distancia 0.66)
+[14:51:58] Imagen 7: IMG_1499.JPG -> arandelas (distancia 0.59)
+[14:51:58] Imagen 8: IMG_1500.JPG -> arandelas (distancia 0.45)
+[14:51:58] Imagen 9: IMG_1501.jpg -> clavos (distancia 0.20)
+[14:51:59] Imagen 10: IMG_1502.JPG -> clavos (distancia 0.61)
+[14:51:59] Estimación bayesiana calculada.

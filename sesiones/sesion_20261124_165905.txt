@@ -1,0 +1,3 @@
+[16:59:05] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[16:59:05] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[16:59:18] Comando de voz reconocido: salir (100 % de los vecinos)

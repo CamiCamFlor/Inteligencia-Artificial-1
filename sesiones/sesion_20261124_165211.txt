@@ -1,0 +1,2 @@
+[16:52:12] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[16:52:12] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz

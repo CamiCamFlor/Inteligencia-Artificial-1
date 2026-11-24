@@ -1,0 +1,42 @@
+[01:14:05] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[01:14:05] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[01:14:14] Se cargaron 10 imágenes para identificar.
+[01:14:14] Imagen 1: IMG_1393.JPG -> tornillos (distancia 0.94)
+[01:14:14] Imagen 2: IMG_1394.JPG -> tornillos (distancia 0.56)
+[01:14:14] Imagen 3: IMG_1401.JPG -> tornillos (distancia 0.79)
+[01:14:14] Imagen 4: IMG_1402.JPG -> clavos (distancia 0.42)
+[01:14:14] Imagen 5: IMG_1464.JPG -> tornillos (distancia 0.84)
+[01:14:15] Imagen 6: IMG_1465.JPG -> tornillos (distancia 0.82)
+[01:14:15] Imagen 7: IMG_1469.JPG -> clavos (distancia 0.35)
+[01:14:15] Imagen 9: IMG_1473.JPG -> clavos (distancia 1.03)
+[01:14:15] Imagen 10: IMG_1474.JPG -> clavos (distancia 0.57)
+[01:14:51] Se cargaron 10 imágenes para identificar.
+[01:14:51] Imagen 1: IMG_1393.JPG -> tornillos (distancia 0.94)
+[01:14:52] Imagen 2: IMG_1394.JPG -> tornillos (distancia 0.56)
+[01:14:52] Imagen 3: IMG_1399.JPG -> tornillos (distancia 0.92)
+[01:14:52] Imagen 4: IMG_1401.JPG -> tornillos (distancia 0.79)
+[01:14:52] Imagen 5: IMG_1402.JPG -> clavos (distancia 0.42)
+[01:14:52] Imagen 6: IMG_1464.JPG -> tornillos (distancia 0.84)
+[01:14:52] Imagen 7: IMG_1465.JPG -> tornillos (distancia 0.82)
+[01:14:52] Imagen 8: IMG_1469.JPG -> clavos (distancia 0.35)
+[01:14:52] Imagen 9: IMG_1473.JPG -> clavos (distancia 1.03)
+[01:14:52] Imagen 10: IMG_1474.JPG -> clavos (distancia 0.57)
+[01:14:52] Estimación bayesiana calculada.
+[01:15:21] Comando de voz reconocido: proporcion (100 % de los vecinos)
+[01:15:21] Estimación bayesiana calculada.
+[01:15:21] Comando 'proporcion' ejecutado.
+Probabilidad de cada caja:
+  caja a  (250 / 250 / 250 / 250)    0.1 %
+  caja b  (150 / 300 / 300 / 250)    0.0 %
+  caja c  (250 / 350 / 250 / 150)    0.4 %
+  caja d  (500 / 500 / 0 / 0)   99.5 %
+Caja mas probable: d (99.5 %)
+Composicion estimada de la caja (promedio ponderado por probabilidad):
+  tornillos   498.8 piezas  (49.9 %)   | caja mas probable: 500
+  clavos      499.2 piezas  (49.9 %)   | caja mas probable: 500
+  arandelas     1.2 piezas  ( 0.1 %)   | caja mas probable: 0
+  tuercas       0.8 piezas  ( 0.1 %)   | caja mas probable: 0
+[01:15:21] Estimación bayesiana calculada.
+[01:16:56] Comando de voz reconocido: contar (100 % de los vecinos)
+[01:16:56] Comando 'contar' ejecutado.
+Piezas reconocidas en la muestra (10): tornillos 6, clavos 4, arandelas 0, tuercas 0

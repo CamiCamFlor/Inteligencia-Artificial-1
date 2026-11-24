@@ -1,0 +1,29 @@
+[03:19:06] Modelo de imagenes (K-means) cargado: modelo_kmeans.npz
+[03:19:06] Modelo de voz (K-NN, k = 3) cargado: modelo_knn_audio.npz
+[03:19:16] Se cargaron 10 imágenes para identificar.
+[03:19:16] Imagen 1: IMG_1493.JPG -> tuercas (distancia 0.60)
+[03:19:16] Imagen 2: IMG_1494.JPG -> tuercas (distancia 0.52)
+[03:19:16] Imagen 3: IMG_1495.JPG -> tornillos (distancia 1.04)
+[03:19:16] Imagen 4: IMG_1496.JPG -> tornillos (distancia 0.92)
+[03:19:16] Imagen 5: IMG_1497.JPG -> tornillos (distancia 0.75)
+[03:19:17] Imagen 6: IMG_1498.JPG -> tornillos (distancia 0.81)
+[03:19:17] Imagen 7: IMG_1499.JPG -> arandelas (distancia 0.83)
+[03:19:17] Imagen 8: IMG_1500.JPG -> arandelas (distancia 0.64)
+[03:19:17] Imagen 9: IMG_1501.jpg -> clavos (distancia 0.41)
+[03:19:17] Imagen 10: IMG_1502.JPG -> clavos (distancia 0.83)
+[03:19:17] Estimación bayesiana calculada.
+[03:19:24] Comando de voz reconocido: proporcion (100 % de los vecinos)
+[03:19:24] Estimación bayesiana calculada.
+[03:19:24] Comando 'proporcion' ejecutado.
+Probabilidad de cada caja:
+  caja a  (250 / 250 / 250 / 250)   50.6 %
+  caja b  (150 / 300 / 300 / 250)   13.6 %
+  caja c  (250 / 350 / 250 / 150)   35.7 %
+  caja d  (500 / 500 / 0 / 0)    0.0 %
+Caja mas probable: a (50.6 %)
+Composicion estimada de la caja (promedio ponderado por probabilidad):
+  tornillos   236.4 piezas  (23.6 %)   | caja mas probable: 250
+  clavos      292.5 piezas  (29.3 %)   | caja mas probable: 250
+  arandelas   256.8 piezas  (25.7 %)   | caja mas probable: 250
+  tuercas     214.3 piezas  (21.4 %)   | caja mas probable: 250
+[03:19:24] Estimación bayesiana calculada.
